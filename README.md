@@ -2,17 +2,17 @@
 
 <img src="./img/print.png" alt="Imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+Este projeto apresenta um relógio digital simples, construído utilizando JavaScript, HTML e CSS. O objetivo é demonstrar como criar um relógio funcional na web, permitindo visualizar a hora atual de forma dinâmica.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Implementação inicial do relógio
+- [x] Melhorias na interface do usuário
+- [x] Adição de funções adicionais (alarme)
+- [ ] Integração com APIs externas (hora mundial)
+- [ ] Refatoração do código para melhor performance
 
 ## 💻 Pré-requisitos
 
