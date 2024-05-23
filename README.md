@@ -14,14 +14,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Integração com APIs externas (hora mundial)
 - [ ] Refatoração do código para melhor performance
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
 ## 🚀 Instalando <digital-watch>
 
 Para instalar o <digital-watch>, siga estas etapas:
