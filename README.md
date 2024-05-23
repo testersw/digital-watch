@@ -2,7 +2,7 @@
 
 <img src="./img/print.png" alt="Imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+Este projeto apresenta um relógio digital simples, construído utilizando JavaScript, HTML e CSS. O objetivo é demonstrar como criar um relógio funcional na web, permitindo visualizar a hora atual de forma dinâmica.
 
 ### Ajustes e melhorias
 
