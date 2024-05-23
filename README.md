@@ -10,7 +10,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Implementação inicial do relógio
 - [x] Melhorias na interface do usuário
-- [x] Adição de funções adicionais (crônometro)
+- [x] Adição de funções adicionais (cronômetro)
 - [ ] Integração com APIs externas (hora mundial)
 - [ ] Refatoração do código para melhor performance
 
