@@ -22,7 +22,7 @@ Para instalar o <digital-watch>, siga estas etapas:
 Linux e macOS:
 
 ```
-git clone https://github.com/seu_usuario/relogio-digital.git
+git clone https://github.com/tonyzinh/relogio-digital.git
 cd relogio-digital
 npm install
 ```
@@ -30,7 +30,7 @@ npm install
 Windows:
 
 ```
-git clone https://github.com/seu_usuario/relogio-digital.git
+git clone https://github.com/tonyzinh/relogio-digital.git
 cd relogio-digital
 npm install
 ```
